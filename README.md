@@ -4,7 +4,7 @@ Me llamo Benjamin Cortes, ingeniero en Informatica desde el 2017 y me apasiona e
 
 Mi experiencia y habilidades en programacion son:
 
-##### Front End:
+#### Front End:
 * HTML
 * CSS
 * JavaScript
@@ -13,12 +13,12 @@ Mi experiencia y habilidades en programacion son:
 * Next.js
 * Bootstrap
 
-##### Back End:
+#### Back End:
 * Node.js
 * PHP
 * C#
 
-##### Base de datos:
+#### Base de datos:
 * MySQL
 * MariaDB
 * PostgreSQL
